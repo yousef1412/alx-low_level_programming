@@ -3,13 +3,13 @@
 /**
  * rev_string - reverses & string
  *
- * @s sring parameter input
+ * @s: sring parameter input
  *
  * Return: Nothing
  */
 
 void rev_string(char *s)
-{	
+{
 	int l, i;
 	char temp;
 
@@ -25,4 +25,4 @@ void rev_string(char *s)
 		s[l - 1 - i] = temp;
 
 	}
-}	
+}
