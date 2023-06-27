@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * rev_string - reverses & string
+ * rev_string - reverses a string
  *
  * @s: sring parameter input
  *
