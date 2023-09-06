@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints the number of base 16
+ * main - main block
  * Return: 0
 */
 int main(void)
